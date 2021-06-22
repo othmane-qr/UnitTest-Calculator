@@ -1,0 +1,6 @@
+C:\Users\Administrateur\Desktop\UnitTest-Calculator-master\Calculatorr\bin\Debug\Calculatorr.dll
+C:\Users\Administrateur\Desktop\UnitTest-Calculator-master\Calculatorr\bin\Debug\Calculatorr.pdb
+C:\Users\Administrateur\Desktop\UnitTest-Calculator-master\Calculatorr\obj\Debug\Calculatorr.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\UnitTest-Calculator-master\Calculatorr\obj\Debug\Calculatorr.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\UnitTest-Calculator-master\Calculatorr\obj\Debug\Calculatorr.dll
+C:\Users\Administrateur\Desktop\UnitTest-Calculator-master\Calculatorr\obj\Debug\Calculatorr.pdb
